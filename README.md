@@ -1,6 +1,6 @@
 # Hindi-Letters-Recognition
 for running this project succesfully you have do following steps:
-1) install python 
+1) install python 3
 2) install libraries numpy,pandas,tensorflow,keras,opencv through pip 
 3) now run CreateCSV.py to convert images to numeric data
 4) then run Model.py
